@@ -1,0 +1,144 @@
+{
+    "profile": "As a software engineer with a passion for backend development, cloud-native applications, and integration, I bring extensive experience working on multiple projects and various database types and architectures. I am confident in my ability to design, develop, and maintain scalable and robust solutions that meet business requirements and exceed expectations. My expertise in technologies such as TypeScript, Node.js, NestJS, AWS, and various databases makes me an ideal candidate for any team looking for a skilled backend developer. I am eager to contribute to challenging projects and collaborate with a team of like-minded professionals to deliver innovative solutions.", 
+    "experience": [
+        {
+            "company": "OPSWAT",
+            "location": "Timisoara",
+            "start_date": "May 2022",
+            "end_date": "-",
+            "job_title": "Associate Software Engineer",
+            "projects": [
+                {
+                    "project_name": "Company SSO & User Management Platform",
+                    "start_date": "May 2022",
+                    "end_date": "August 2022",
+                    "data": [
+                        "Quickly grasped project scope and made a significant impact on the core functionality.",
+                        "Orchestrated and executed the migration of user licenses database from Cognito to DynamoDB.",
+                        "Designed and implemented a comprehensive disaster recovery plan for DynamoDB tables, leveraging advanced AWS technologies such as region migration, version rollback, and deleted table restoration.",
+                        "Optimized the disaster recovery plan for the Cognito user pool by duplicating user entries to another region.",
+                        "Collaborated with the management team to align project objectives and achieve a stable version of the platform.",
+                        "Developed and maintained a suite of unit tests for ensuring platform stability.",
+                        "Proficiently utilized technologies including Node.js and Express, Bash scripting, AWS services such as DynamoDB, Lambda, API Gateway, Cognito, SNS, SQS, and the Serverless Framework, as well as Jest for unit testing."
+                    ]                    
+                },
+                {
+                    "project_name": "Menlo Middleware",
+                    "start_date": "September 2022",
+                    "end_date": "September 2022",
+                    "data": [
+                        "Adapted quickly to the customer-facing dynamic and understood the project scope.",
+                        "Collaborated closely with the team lead to deliver a stable version for the customer.",
+                        "Conducted load testing on the pre-production environment and collected relevant data for DevOps.",
+                        "Utilized Python and Locust for the project, demonstrating proficiency in performance testing and analysis."
+                    ]                    
+                },
+                {
+                    "project_name": "AppSec Platform",
+                    "start_date": "October 2022",
+                    "end_date": "April 2022",
+                    "data": [
+                        "Collaborated with management team and team lead to plan sprints and tasks.",
+                        "Worked closely with the front end developer to ensure seamless integration with the back end.",
+                        "Designed and developed back end from scratch.",
+                        "Integrated Git, Docker HTTP API and AWS ECR.",
+                        "Integrated internal product for file scanning and wrote comprehensive unit tests for stability and accuracy.",
+                        "Reviewed and updated project pages and documentation to ensure consistency and clarity.",
+                        "Successfully delivered MVP to project management team.",
+                        "Leveraged cutting-edge technologies such as Node.js, TypeScript, NestJS, RabbitMQ, Docker, microservices architecture, gRPC, REST API, AWS S3, MongoDB, OpenAPI, and Jest to build a robust and scalable AppSec product."
+                      
+                    ]                    
+                },
+                {
+                    "project_name": "File Scanning & Sanitization API",
+                    "start_date": "October 2022",
+                    "end_date": "April 2022",
+                    "data": [
+                        "Quickly grasped project scope and structure, ensuring a solid understanding of requirements.",
+                        "Implemented effective strategies to bring project to a stable version."         
+                    ]                    
+                }
+            ]
+        },
+        {
+            "company": "OPSWAT",
+            "location": "Timisoara",
+            "start_date": "Software Engineering Intern",
+            "end_date": "November 2021",
+            "job_title": "May 2022",
+            "projects": [
+                {
+                    "project_name": "Alignment App",
+                    "start_date": "November 2021",
+                    "end_date": "May 2022",
+                    "data": [
+                        "Collaborated with the intern team while contributing to the development of a cloud-native application on AWS, streamlining internal planning (like 15five).",
+                        "Gained valuable experience and guidance from a seasoned team lead and senior developer.",
+                        "Worked closely with the team lead, coordinating tasks and sprints to ensure timely and efficient project delivery.",
+                        "Contributed to front end design using AWS Amplify, React and ChakraUI, while designing a serverless back end with API Gateway and Lambda.",
+                        "Conducted comprehensive testing, including end-to-end with Cypress and unit testing using Jest.",
+                        "Utilized DynamoDB for database management and Cognito for user management."
+                        
+                    ]                    
+                }
+            ]
+        },
+        {
+            "company": "EtherGate",
+            "location": "Timisoara",
+            "start_date": "Student Apprentice",
+            "end_date": "March 2020",
+            "job_title": "May 2020",
+            "projects": [
+                {
+                    "project_name": "Red Light Green Light",
+                    "start_date": "March 2020",
+                    "end_date": "May 2020",
+                    "data": [
+                        "Developed a Computer Vision project based on the Red Light Green Light game",
+                        "Wrote a machine learning model that detects facial features and movement",
+                        "Hands on experience with Python, OpenCV and PyTorch"
+                    ]                    
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "university": "Polytechnic University of Timisoara",
+            "location": "Timisoara, Romania",
+            "start_date": "September 2019",
+            "end_date": "July 2023",
+            "degree": "Bachelor's Degree",
+            "faculty": "Automation and Computers",
+            "specialization": "Computers and Information Technology",
+            "language": "English"
+        },
+        {
+            "university": "University of Bonn - Erasmus",
+            "location": "Bonn, Germany",
+            "start_date": "October 2020",
+            "end_date": "September 2021",
+            "degree": "Bachelor's Degree",
+            "faculty": "Computer Science",
+            "specialization": "Informatics",
+            "language": "German"
+        }
+    ],
+    "skills": [
+        "Critical Thinking", 
+        "Problem solving",
+        "Collaboration & Teamwork",
+        "Adaptability",
+        "Effective Time Management",
+        "Communication Skills"
+    ],
+    "languages": {
+        "english": "C1",
+        "german": "B1"
+    },
+    "contact": {
+        "phone_number": "(+40) 733-896-986",
+        "email": "razvantamsa295@gmail.com"
+    }
+}
